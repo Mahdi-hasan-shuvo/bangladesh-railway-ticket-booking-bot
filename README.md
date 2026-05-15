@@ -140,17 +140,6 @@ flowchart LR
 
 ---
 
-## 🛠️ Quick Start
-
-### 1️⃣ Install Python 3.10+
-```bash
-python --version  # Should be 3.10 or higher
-```
-
-### 2️⃣ Install Dependencies
-```bash
-pip install httpx 2captcha-python requests
-```
 
 ### 3️⃣ Configure `user_data.json`
 ```json
