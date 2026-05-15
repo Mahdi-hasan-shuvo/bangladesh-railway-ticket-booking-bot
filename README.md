@@ -263,9 +263,14 @@ The bot will sit quietly, top up its captcha pool, then strike at `run_at` time.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Developer-red?style=for-the-badge&logo=gmail)](mailto:xyzmahdi420@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp)]()
-[![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2CA5E0?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahdi-hasan-shuvo.github.io/Mahdi-hasan-shuvo/)
+[![Email](https://img.shields.io/badge/Email-shuvobbhh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuvobbhh@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%2B8801616397082-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+8801616397082)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801616397082-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801616397082)
+
+💬 **Telegram / WhatsApp:** [+8801616397082](https://wa.me/8801616397082)
+
+💼 **Available for freelance & paid projects** — Let's build something great together!
 
 </div>
 
